@@ -7,10 +7,10 @@ A ferramenta tem uma estrutura com funcionalidades automatizadas, com links que 
 
 ![image](https://github.com/user-attachments/assets/6e8b0617-ae07-4d74-aa68-ea6de37bc909)
 
-### A segunda planilha dos "Informes" conta com informações de rendimentos em bancos - com opção de seleção dos bancos mais utlizados. 
+### A segunda planilha dos "Informes" conta com os rendimentos em cada um dos bancos - com opção de seleção dos bancos (lista dos mais utlizados) e os valores que constam. 
 
 ![image](https://github.com/user-attachments/assets/62c36781-ef45-48d1-9151-7bc9bb1100e9)
 
-### A Terceira planilha de "Notas" serão preenchidos os campos com a data, categoria e valor de entrada mês a mês de receita, também com opção de seleção em forma de lista das formas de rendimentos.
+### A Terceira planilha de "Notas" serão preenchidos os campos com a data, categoria e valor de entrada mês a mês de receita, também com opção de seleção em forma de lista, das formas de rendimentos.
 
 ![image](https://github.com/user-attachments/assets/a9ff943b-12f4-46de-8f91-180e24d439a9)
