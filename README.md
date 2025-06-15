@@ -5,7 +5,7 @@ A ferramenta tem uma estrutura com funcionalidades automatizadas, com links que 
 
 ### Incialmente temos a planilha do "Titular" com objetivo de preencher as informações pessoais e fazer as devidas alterações.
 
-![image](https://github.com/user-attachments/assets/6e8b0617-ae07-4d74-aa68-ea6de37bc909)
+![image](https://github.com/user-attachments/assets/1a7c4642-5228-4ece-b692-dc78e383e76e)
 
 ### A segunda planilha dos "Informes" conta com os rendimentos em cada um dos bancos - com opção de seleção dos bancos (lista dos mais utlizados) e os valores que constam. 
 
