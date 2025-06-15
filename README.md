@@ -3,7 +3,7 @@
 
 A ferramenta tem uma estrutura com funcionalidades automatizadas, com links que possibilitam percorrer páginas com apenas um click. 
 
-### Incialmente temos a planilha do "Titular" com objetivo de preencher as informações pessoais e fazer as devidas alterações necessárias.
+### Incialmente temos a planilha do "Titular" com objetivo de preencher as informações pessoais e fazer as devidas alterações.
 
 ![image](https://github.com/user-attachments/assets/6e8b0617-ae07-4d74-aa68-ea6de37bc909)
 
